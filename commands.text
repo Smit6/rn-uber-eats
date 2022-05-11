@@ -1,0 +1,17 @@
+create app: npx create-react-native-app uber-eats
+run ios app: yarn ios
+vector icons: yarn add react-native-vector-icons
+google place autocomplete: yarn add react-native-google-places-autocomplete
+react native safe area: yarn add react-native-safe-area-context
+navigation:
+  yarn add @react-navigation/native
+  yarn add @react-navigation/start
+  yarn add react-native-gesture-handler
+checkbox:
+  yarn add react-native-bouncy-checkbox
+  yarn add tslib
+redux:
+  yarn add react-redux
+reanimated:
+  yarn add react-native-reanimated
+  yarn add reanimated-bottom-sheet
